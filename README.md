@@ -5,8 +5,6 @@
 
 Inspirado na ave **Stercorarius skua**, nativa da Antártica e conhecida por sua inteligência e capacidade de seguir rastros, o sistema também "segue os rastros" deixados nas leituras dos pesquisadores — analisando grifos coloridos para estruturar o conhecimento de forma coletiva e visual.
 
----
-
 ## Acesse os guias disponíveis
 
 Esta documentação está organizada para atender a **dois públicos principais**: pesquisadores usuários e desenvolvedores. Utilize os links abaixo para navegar:
@@ -17,8 +15,6 @@ Esta documentação está organizada para atender a **dois públicos principais*
 - [Guia para Desenvolvedores](guia_desenvolvedores.md)  
   Apresenta os módulos principais do sistema, dependências, estrutura de código e pontos de contribuição técnica.
 
----
-
 ## Repositório técnico
 
 No repositório, você encontrará também as documentações específicas dos módulos:
@@ -28,13 +24,9 @@ No repositório, você encontrará também as documentações específicas dos m
 - [Banco de Dados](db.md)
 - [Visualização (nuvem de palavras e redes)](visualizacao.md)
 
----
-
 ## Sobre o projeto
 
 Este sistema está sendo desenvolvido no âmbito do grupo de pesquisa **ANTARCTICA** e encontra-se em fase de prototipagem. Ele será utilizado inicialmente no **Google Colab**, e posteriormente poderá ser adaptado para servidores da universidade ou plataformas web.
-
----
 
 ## Licença
 
